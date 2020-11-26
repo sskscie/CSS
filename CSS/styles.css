@@ -1,4 +1,5 @@
 body{
+    color: #40514E;
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
@@ -94,4 +95,8 @@ a{
 }
 .pgram{
     color: #40514E;
+}
+.intro{
+    width: 30%;
+    margin: auto;
 }
